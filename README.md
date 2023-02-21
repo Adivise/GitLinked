@@ -20,6 +20,7 @@
 
 - Node.js v16+ **[Download](https://nodejs.org/en/download/)**
 - Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
+- Don't forget to change authorize url [Click Here](https://github.com/Adivise/GitLinked/blob/main/dashboard/index.html#L36)
 ![Screenshot_5](https://user-images.githubusercontent.com/61177761/220265704-63d63d53-ae77-4046-877f-1890eda79c38.png)
 ![Screenshot_6](https://user-images.githubusercontent.com/61177761/220265714-c3807973-5f14-4308-aee3-7ad489577268.png)
 
